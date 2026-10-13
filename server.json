@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.chatley/chatley",
+  "title": "Chatley AI",
+  "description": "Manage Chatley AI voice agents: review calls, transcripts and analytics, and edit agents safely.",
+  "version": "1.0.0",
+  "websiteUrl": "https://chatley.ai",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.chatley.ai/mcp" }
+  ]
+}

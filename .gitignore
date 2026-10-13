@@ -1,0 +1,5 @@
+*.pem
+*.key
+*private-key*
+.mcpregistry_*
+.env
